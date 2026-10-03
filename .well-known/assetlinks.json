@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.fidomaker",
+      "sha256_cert_fingerprints": [
+        "F3:5B:2D:F6:37:B3:5C:A4:8B:37:BE:1A:AD:56:5E:6B:A9:3B:20:EB:D0:7B:88:51:A1:AF:23:CC:28:09:65:7C"
+      ]
+    }
+  }
+]
